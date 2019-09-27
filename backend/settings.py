@@ -100,7 +100,7 @@ DATABASES = {
         'NAME': 'vk_hack',
         'USER' : 'postgres',
         'PASSWORD' : '',
-        'HOST' : '127.0.0.1',
+        'HOST' : 'demo137.delta.vkhackathon.com',
         'PORT' : '5432',
     }
 }
