@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     'rest_framework',
     "rest_framework.authtoken",
     'djoser',
+    'museer',
 ]
 
 MIDDLEWARE = [
@@ -91,6 +92,7 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
+
 
 # DATABASES = {
 #     'default': {
